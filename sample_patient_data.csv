@@ -1,6 +1,0 @@
-patient_id,age,gender,medical_history,current_medication,adverse_event,event_date,severity,outcome
-P001,45,Female,Hypertension; Diabetes Type 2,Metformin; Lisinopril,Severe infection,2024-01-15,Serious,Recovered
-P002,67,Male,Coronary artery disease; COPD,Atorvastatin; Albuterol,Cardiac event,2024-01-20,Serious,Ongoing
-P003,34,Female,None,None,Mild headache,2024-01-25,Non-serious,Recovered
-P004,52,Male,Diabetes Type 1; Chronic kidney disease,Insulin; ACE inhibitor,Severe infection,2024-01-30,Serious,Hospitalized
-P005,28,Female,Asthma,Inhaled corticosteroid,Respiratory distress,2024-02-05,Serious,Recovered
