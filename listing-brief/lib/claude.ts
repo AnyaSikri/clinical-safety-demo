@@ -15,7 +15,7 @@ export async function callClaude<T>(
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
     try {
       const message = await client.messages.create({
-        model: 'claude-sonnet-4-5-20241022',
+        model: 'claude-sonnet-4-6',
         max_tokens: 4096,
         messages: [
           {
